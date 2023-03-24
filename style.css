@@ -202,7 +202,12 @@
 }
 
 #fundoyanban1 {
-    transform: rotate(0deg);
+    background-image: url('IMG/backgroundperfil.png');
+    background-attachment: fixed;
+    height:100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    display:block;
 }
 
 #opaco {
@@ -323,7 +328,7 @@
     position: absolute;
 }
 
-#apaixonadoportecnologiadesdecriança, ondemedianteexperiênciasdiversas, acaboupordesejarfazerusodatecnologiaparafacilitarodia-a-diadaspessoas. {
+#sobreI{
     color: #d8d8d8;
     text-align: left;
     vertical-align: text-top;
@@ -365,8 +370,6 @@
 }
 
 #coluna02 {
-    height: 339px;
-    width: 333px;
     padding: 0px;
     left: 1258px;
     top: 276px;
@@ -374,8 +377,6 @@
 }
 
 #logo2 {
-    height: 254px;
-    width: 269px;
     padding: 0px;
     left: 64px;
     top: 38px;
@@ -445,10 +446,6 @@
     position: absolute;
 }
 
-#coluna01 {
-    padding: 0px;
-    position: relative;
-}
 
 #h14 {
     height: 168px;
@@ -458,7 +455,7 @@
     position: relative;
 }
 
-#ajudandoempresasaconstruíremsitesmodernosedealtaqualidade. {
+#introI {
     text-align: left;
     vertical-align: text-middle;
     font-size: 36px;
@@ -471,7 +468,7 @@
 #a42 {
     background-color: #01003d;
     border-radius: 4px;
-    padding: 0px;
+    padding: 10px;
     position: relative;
 }
 
