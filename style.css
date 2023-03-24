@@ -1,8 +1,5 @@
 #portifolio {
-<<<<<<< HEAD
-=======
     padding-bottom: 224px;
->>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
     position: relative;
 }
 
@@ -19,19 +16,12 @@
 }
 
 #colunarodape {
-<<<<<<< HEAD
-=======
     height: 134px;
->>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
     padding: 0px;
     background: RGB(1, 0, 41); 
 }
 
-<<<<<<< HEAD
 #footerestilo {
-=======
-#©2023-todososdireitosreservados {
->>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -40,11 +30,6 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-<<<<<<< HEAD
-    width: 100%;
-
-=======
->>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
 }
 
 #linhaservicos {
@@ -220,6 +205,11 @@
 
 #fundoyanban1 {
     transform: rotate(0deg);
+    background-image: url("IMG/fundo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
 }
 
 #opaco {
@@ -475,7 +465,7 @@
     position: relative;
 }
 
-#ajudandoempresasaconstruíremsitesmodernosedealtaqualidade. {
+#tInicial{
     text-align: left;
     vertical-align: text-middle;
     font-size: 36px;
@@ -485,14 +475,7 @@
     outline: none;
 }
 
-#a42 {
-    background-color: #01003d;
-    border-radius: 4px;
-    padding: 0px;
-    position: relative;
-}
-
-#botaoIni {
+.det {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -500,7 +483,6 @@
     font-family: Archivo;
     line-height: auto;
     border-style: hidden;
+    background-color: #01003d;
 }
-#botaoIni:hover{
 
-}
