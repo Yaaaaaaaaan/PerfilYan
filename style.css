@@ -1,33 +1,25 @@
-.portifolio {
-    height: 3574px;
-    width: 1920px;
-    padding-bottom: 224px;
-    top: 121px;
+#portifolio {
     position: relative;
 }
 
-.conteiner {
-    height: 3574px;
-    width: 1920px;
+#conteiner {
     padding: 0px;
 }
 
-.linharodape {
+#linharodape {
     background-color: #010029;
     height: 134px;
-    width: 1920px;
     padding: 0px;
-    top: 3440px;
     position: relative;
+    background: RGB(1, 0, 41);
 }
 
-.colunarodape {
-    height: 134px;
-    width: 1920px;
+#colunarodape {
     padding: 0px;
+    background: RGB(1, 0, 41); 
 }
 
-.©2023-todososdireitosreservados {
+#footerestilo {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -36,7 +28,8 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    width: 1920px;
+    width: 100%;
+
 }
 
 .linhaservicos {
