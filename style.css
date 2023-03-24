@@ -193,24 +193,20 @@
 }
 
 .#linhaprojetos {
-    height: 1018px;
     padding: 0px;
     position: relative;
 }
 
 #colunaprojetos {
-    height: 1018px;
     padding: 0px;
 }
 
 #fundoyanban1 {
-    height: 1164.1875px;
     transform: rotate(0deg);
 }
 
 #opaco {
     background-color: rgba(240, 240, 240, 0.5);
-    height: 1018px;
 }
 
 #botao2 {
@@ -237,19 +233,16 @@
 
 #linhasobre {
     background-color: #005fad;
-    height: 696px;
     padding: 0px;
     position: relative;
 }
 
 #coluna2 {
-    height: 696px;
     padding: 0px;
     position: relative;
 }
 
 #linha2 {
-    height: 300px;
     padding: 0px;
     position: relative;
 }
@@ -257,8 +250,6 @@
 #icons {
     width: 380px;
     height: 65px;
-    top: 63px;
-    left: 141px;
     position: absolute;
 }
 
@@ -287,12 +278,10 @@
 }
 
 #linha1 {
-    height: 395px;
     padding: 0px;
 }
 
 #txt {
-    height: 269px;
     padding: 0px;
     position: relative;
 }
@@ -306,7 +295,6 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    width: 154px;
 }
 
 #yanfonseca {
@@ -321,7 +309,6 @@
     top: 38px;
     left: 0px;
     position: absolute;
-    width: 262px;
 }
 
 #desenvolvedorbackend {
@@ -333,13 +320,10 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    top: 97px;
-    left: 0px;
     position: absolute;
-    width: 328px;
 }
 
-.apaixonadoportecnologiadesdecriança, ondemedianteexperiênciasdiversas, acaboupordesejarfazerusodatecnologiaparafacilitarodia-a-diadaspessoas. {
+#apaixonadoportecnologiadesdecriança, ondemedianteexperiênciasdiversas, acaboupordesejarfazerusodatecnologiaparafacilitarodia-a-diadaspessoas. {
     color: #d8d8d8;
     text-align: left;
     vertical-align: text-top;
@@ -348,51 +332,39 @@
     line-height: 28.799999237060547px;
     border-style: hidden;
     outline: none;
-    top: 153px;
-    left: 0px;
     position: absolute;
-    width: 540.8601684570312px;
 }
 
-.coluna1 {
-    height: 696px;
-    width: 851px;
+#coluna1 {
     padding: 0px;
 }
 
-.foto {
+#foto {
     height: 535px;
     width: 383px;
     padding: 0px;
-    left: 428px;
-    top: 46px;
     position: relative;
 }
 
-.img_yan1 {
+#img_yan1 {
     height: 426px;
     width: 320px;
-    left: 0px;
-    top: 6px;
     position: absolute;
 }
 
-.coisinhadefoto {
-    height: 535px;
-    width: 378px;
-    left: 0px;
-    top: 0px;
+#coisinhadefoto {
+    top:-45px;
+    height: 526px;
+    width: 320px;
     position: absolute;
 }
 
-.linhainicio {
+#linhainicio {
     background-color: #005fad;
-    height: 736px;
-    width: 1920px;
     padding: 0px;
 }
 
-.coluna02 {
+#coluna02 {
     height: 339px;
     width: 333px;
     padding: 0px;
@@ -401,7 +373,7 @@
     position: relative;
 }
 
-.logo2 {
+#logo2 {
     height: 254px;
     width: 269px;
     padding: 0px;
@@ -410,7 +382,7 @@
     position: relative;
 }
 
-.h1 {
+#h1 {
     height: 98px;
     width: 271px;
     padding: 0px;
@@ -418,7 +390,7 @@
     position: relative;
 }
 
-.dubweb {
+#dubweb {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -427,13 +399,11 @@
     line-height: 56px;
     border-style: hidden;
     outline: none;
-    top: 33px;
-    left: 135px;
     position: absolute;
     width: 151px;
 }
 
-.h12 {
+#h12 {
     height: 304px;
     width: 288px;
     padding: 0px;
