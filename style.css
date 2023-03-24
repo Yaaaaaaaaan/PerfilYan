@@ -1,33 +1,25 @@
-.portifolio {
-    height: 3574px;
-    width: 1920px;
+#portifolio {
     padding-bottom: 224px;
-    top: 121px;
     position: relative;
 }
 
-.conteiner {
-    height: 3574px;
-    width: 1920px;
+#conteiner {
     padding: 0px;
 }
 
-.linharodape {
+#linharodape {
     background-color: #010029;
     height: 134px;
-    width: 1920px;
     padding: 0px;
-    top: 3440px;
     position: relative;
 }
 
-.colunarodape {
+#colunarodape {
     height: 134px;
-    width: 1920px;
     padding: 0px;
 }
 
-.©2023-todososdireitosreservados {
+#©2023-todososdireitosreservados {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -36,38 +28,31 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    width: 1920px;
 }
 
-.linhaservicos {
+#linhaservicos {
     background-color: #01003d;
     height: 539px;
-    width: 1920px;
     padding: 0px;
-    top: 2901px;
     position: relative;
 }
 
-.colunaservicos2 {
+#colunaservicos2 {
     height: 289px;
-    width: 1920px;
     padding: 0px;
-    top: 250px;
     position: relative;
 }
 
-.botao {
+#botao {
     background-color: #005fad;
     height: 51px;
     width: 356px;
     border-radius: 4px;
     padding: 0px;
-    left: 782px;
-    top: 60px;
     position: relative;
 }
 
-.soliciteumorçamento {
+#soliciteumorçamento {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -82,14 +67,13 @@
     width: 356px;
 }
 
-.colunaservicos1 {
+#colunaservicos1 {
     height: 250px;
-    width: 1920px;
     padding: 0px;
     position: absolute;
 }
 
-.serviços {
+#serviços {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -104,128 +88,98 @@
     width: 176px;
 }
 
-.linhahabilidades {
+#linhahabilidades {
     background-color: #005fad;
     height: 450px;
-    width: 1920px;
     padding: 0px;
-    top: 2451px;
     position: relative;
 }
 
-.linhahabilidades2 {
+#linhahabilidades2 {
     height: 183px;
-    width: 1920px;
     padding: 0px;
-    top: 185px;
     position: relative;
 }
 
-.colunahabilidades2 {
-    width: 1786px;
+#colunahabilidades2 {
     height: 183px;
     top: 0px;
     left: 67px;
     position: absolute;
 }
 
-.rectangle14 {
+#rectangle14 {
     background-color: rgba(255, 255, 255, 0.75);
     height: 183px;
-    width: 1786px;
-    top: 0px;
-    left: 67px;
     position: absolute;
 }
 
-.habilidadesicones {
-    width: 1544px;
+#habilidadesicones {
     height: 64px;
-    top: 57px;
-    left: 156px;
     position: absolute;
 }
 
 .c- + {
     height: 64px;
     width: 64px;
-    left: 156px;
-    top: 57px;
     position: absolute;
 }
 
 .csharp {
     height: 64px;
     width: 64px;
-    left: 341px;
-    top: 57px;
     position: absolute;
 }
 
 .java {
     height: 64px;
     width: 64px;
-    left: 526px;
-    top: 57px;
     position: absolute;
 }
 
 .python {
     height: 64px;
     width: 64px;
-    left: 711px;
-    top: 57px;
     position: absolute;
 }
 
 .php {
     height: 64px;
     width: 64px;
-    left: 896px;
-    top: 57px;
     position: absolute;
 }
 
 .html5 {
     height: 64px;
     width: 64px;
-    left: 1081px;
-    top: 57px;
     position: absolute;
 }
 
 .css3 {
     height: 64px;
     width: 64px;
-    left: 1266px;
-    top: 57px;
     position: absolute;
 }
 
 .bootstrap {
     height: 64px;
     width: 64px;
-    left: 1451px;
-    top: 57px;
     position: absolute;
 }
 
 .wordpress {
     height: 64px;
     width: 64px;
-    left: 1636px;
-    top: 57px;
     position: absolute;
 }
 
-.colunahabilidades1 {
+#colunahabilidades1 {
     height: 185px;
-    width: 1920px;
     padding: 0px;
     position: absolute;
 }
 
-.habilidades6 {
+#habilidades6 {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -234,50 +188,41 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    left: 767px;
-    top: 33px;
     position: absolute;
     width: 386px;
 }
 
-.linhaprojetos {
+.#linhaprojetos {
     height: 1018px;
-    width: 1920px;
     padding: 0px;
-    top: 1432px;
     position: relative;
 }
 
-.colunaprojetos {
+#colunaprojetos {
     height: 1018px;
-    width: 1920px;
     padding: 0px;
 }
 
-.fundoyanban1 {
+#fundoyanban1 {
     height: 1164.1875px;
-    width: 1920px;
     transform: rotate(0deg);
 }
 
-.opaco {
+#opaco {
     background-color: rgba(240, 240, 240, 0.5);
     height: 1018px;
-    width: 1920px;
 }
 
-.botao2 {
+#botao2 {
     background-color: #01003d;
     height: 57px;
     width: 330px;
     border-radius: 4px;
     padding: 0px;
-    left: 795px;
-    top: 534px;
     position: relative;
 }
 
-.vejamaisprojetosemgithub {
+#vejamaisprojetosemgithub {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -286,38 +231,30 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    top: 19px;
-    left: 0px;
     position: absolute;
     width: 330px;
 }
 
-.linhasobre {
+#linhasobre {
     background-color: #005fad;
     height: 696px;
-    width: 1920px;
     padding: 0px;
-    top: 736px;
     position: relative;
 }
 
-.coluna2 {
+#coluna2 {
     height: 696px;
-    width: 1069px;
     padding: 0px;
-    left: 851px;
     position: relative;
 }
 
-.linha2 {
+#linha2 {
     height: 300px;
-    width: 1069px;
     padding: 0px;
-    top: 396px;
     position: relative;
 }
 
-.icons {
+#icons {
     width: 380px;
     height: 65px;
     top: 63px;
@@ -325,54 +262,42 @@
     position: absolute;
 }
 
-.linkedin {
+#linkedin {
     height: 64px;
     width: 64px;
-    left: 457px;
-    top: 63px;
     position: absolute;
 }
 
-.whatsapp {
+#whatsapp {
     height: 64px;
     width: 64px;
-    left: 349px;
-    top: 63px;
     position: absolute;
 }
 
-.githublogosilhouetteinasquare {
+#githublogosilhouetteinasquare {
     height: 64px;
     width: 64px;
-    left: 245px;
-    top: 63px;
     position: absolute;
 }
 
-.email {
+#email {
     height: 64px;
     width: 64px;
-    left: 141px;
-    top: 64px;
     position: absolute;
 }
 
-.linha1 {
+#linha1 {
     height: 395px;
-    width: 1069px;
     padding: 0px;
 }
 
-.txt {
+#txt {
     height: 269px;
-    width: 759px;
     padding: 0px;
-    left: 71px;
-    top: 108px;
     position: relative;
 }
 
-.quemsou {
+#quemsou {
     color: #01003d;
     text-align: left;
     vertical-align: text-middle;
@@ -384,7 +309,7 @@
     width: 154px;
 }
 
-.yanfonseca {
+#yanfonseca {
     color: #ffffff;
     text-align: left;
     vertical-align: text-middle;
@@ -399,7 +324,7 @@
     width: 262px;
 }
 
-.desenvolvedorbackend {
+#desenvolvedorbackend {
     color: #ffffff;
     text-align: left;
     vertical-align: text-middle;
