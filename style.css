@@ -1,4 +1,8 @@
 #portifolio {
+<<<<<<< HEAD
+=======
+    padding-bottom: 224px;
+>>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
     position: relative;
 }
 
@@ -15,11 +19,19 @@
 }
 
 #colunarodape {
+<<<<<<< HEAD
+=======
+    height: 134px;
+>>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
     padding: 0px;
     background: RGB(1, 0, 41); 
 }
 
+<<<<<<< HEAD
 #footerestilo {
+=======
+#©2023-todososdireitosreservados {
+>>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -28,39 +40,36 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
+<<<<<<< HEAD
     width: 100%;
 
+=======
+>>>>>>> fb08e5a2ac64565b920faa252ad06f45e383b9c4
 }
 
-.linhaservicos {
+#linhaservicos {
     background-color: #01003d;
     height: 539px;
-    width: 1920px;
     padding: 0px;
-    top: 2901px;
     position: relative;
 }
 
-.colunaservicos2 {
+#colunaservicos2 {
     height: 289px;
-    width: 1920px;
     padding: 0px;
-    top: 250px;
     position: relative;
 }
 
-.botao {
+#botao {
     background-color: #005fad;
     height: 51px;
     width: 356px;
     border-radius: 4px;
     padding: 0px;
-    left: 782px;
-    top: 60px;
     position: relative;
 }
 
-.soliciteumorçamento {
+#soliciteumorçamento {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -75,14 +84,13 @@
     width: 356px;
 }
 
-.colunaservicos1 {
+#colunaservicos1 {
     height: 250px;
-    width: 1920px;
     padding: 0px;
     position: absolute;
 }
 
-.serviços {
+#serviços {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -97,128 +105,98 @@
     width: 176px;
 }
 
-.linhahabilidades {
+#linhahabilidades {
     background-color: #005fad;
     height: 450px;
-    width: 1920px;
     padding: 0px;
-    top: 2451px;
     position: relative;
 }
 
-.linhahabilidades2 {
+#linhahabilidades2 {
     height: 183px;
-    width: 1920px;
     padding: 0px;
-    top: 185px;
     position: relative;
 }
 
-.colunahabilidades2 {
-    width: 1786px;
+#colunahabilidades2 {
     height: 183px;
     top: 0px;
     left: 67px;
     position: absolute;
 }
 
-.rectangle14 {
+#rectangle14 {
     background-color: rgba(255, 255, 255, 0.75);
     height: 183px;
-    width: 1786px;
-    top: 0px;
-    left: 67px;
     position: absolute;
 }
 
-.habilidadesicones {
-    width: 1544px;
+#habilidadesicones {
     height: 64px;
-    top: 57px;
-    left: 156px;
     position: absolute;
 }
 
 .c- + {
     height: 64px;
     width: 64px;
-    left: 156px;
-    top: 57px;
     position: absolute;
 }
 
 .csharp {
     height: 64px;
     width: 64px;
-    left: 341px;
-    top: 57px;
     position: absolute;
 }
 
 .java {
     height: 64px;
     width: 64px;
-    left: 526px;
-    top: 57px;
     position: absolute;
 }
 
 .python {
     height: 64px;
     width: 64px;
-    left: 711px;
-    top: 57px;
     position: absolute;
 }
 
 .php {
     height: 64px;
     width: 64px;
-    left: 896px;
-    top: 57px;
     position: absolute;
 }
 
 .html5 {
     height: 64px;
     width: 64px;
-    left: 1081px;
-    top: 57px;
     position: absolute;
 }
 
 .css3 {
     height: 64px;
     width: 64px;
-    left: 1266px;
-    top: 57px;
     position: absolute;
 }
 
 .bootstrap {
     height: 64px;
     width: 64px;
-    left: 1451px;
-    top: 57px;
     position: absolute;
 }
 
 .wordpress {
     height: 64px;
     width: 64px;
-    left: 1636px;
-    top: 57px;
     position: absolute;
 }
 
-.colunahabilidades1 {
+#colunahabilidades1 {
     height: 185px;
-    width: 1920px;
     padding: 0px;
     position: absolute;
 }
 
-.habilidades6 {
+#habilidades6 {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -227,50 +205,37 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    left: 767px;
-    top: 33px;
     position: absolute;
     width: 386px;
 }
 
-.linhaprojetos {
-    height: 1018px;
-    width: 1920px;
+.#linhaprojetos {
     padding: 0px;
-    top: 1432px;
     position: relative;
 }
 
-.colunaprojetos {
-    height: 1018px;
-    width: 1920px;
+#colunaprojetos {
     padding: 0px;
 }
 
-.fundoyanban1 {
-    height: 1164.1875px;
-    width: 1920px;
+#fundoyanban1 {
     transform: rotate(0deg);
 }
 
-.opaco {
+#opaco {
     background-color: rgba(240, 240, 240, 0.5);
-    height: 1018px;
-    width: 1920px;
 }
 
-.botao2 {
+#botao2 {
     background-color: #01003d;
     height: 57px;
     width: 330px;
     border-radius: 4px;
     padding: 0px;
-    left: 795px;
-    top: 534px;
     position: relative;
 }
 
-.vejamaisprojetosemgithub {
+#vejamaisprojetosemgithub {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -279,93 +244,66 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    top: 19px;
-    left: 0px;
     position: absolute;
     width: 330px;
 }
 
-.linhasobre {
+#linhasobre {
     background-color: #005fad;
-    height: 696px;
-    width: 1920px;
     padding: 0px;
-    top: 736px;
     position: relative;
 }
 
-.coluna2 {
-    height: 696px;
-    width: 1069px;
+#coluna2 {
     padding: 0px;
-    left: 851px;
     position: relative;
 }
 
-.linha2 {
-    height: 300px;
-    width: 1069px;
+#linha2 {
     padding: 0px;
-    top: 396px;
     position: relative;
 }
 
-.icons {
+#icons {
     width: 380px;
     height: 65px;
-    top: 63px;
-    left: 141px;
     position: absolute;
 }
 
-.linkedin {
+#linkedin {
     height: 64px;
     width: 64px;
-    left: 457px;
-    top: 63px;
     position: absolute;
 }
 
-.whatsapp {
+#whatsapp {
     height: 64px;
     width: 64px;
-    left: 349px;
-    top: 63px;
     position: absolute;
 }
 
-.githublogosilhouetteinasquare {
+#githublogosilhouetteinasquare {
     height: 64px;
     width: 64px;
-    left: 245px;
-    top: 63px;
     position: absolute;
 }
 
-.email {
+#email {
     height: 64px;
     width: 64px;
-    left: 141px;
-    top: 64px;
     position: absolute;
 }
 
-.linha1 {
-    height: 395px;
-    width: 1069px;
+#linha1 {
     padding: 0px;
 }
 
-.txt {
-    height: 269px;
-    width: 759px;
+#txt {
     padding: 0px;
-    left: 71px;
-    top: 108px;
     position: relative;
 }
 
-.quemsou {
+#quemsou {
     color: #01003d;
     text-align: left;
     vertical-align: text-middle;
@@ -374,10 +312,9 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    width: 154px;
 }
 
-.yanfonseca {
+#yanfonseca {
     color: #ffffff;
     text-align: left;
     vertical-align: text-middle;
@@ -389,10 +326,9 @@
     top: 38px;
     left: 0px;
     position: absolute;
-    width: 262px;
 }
 
-.desenvolvedorbackend {
+#desenvolvedorbackend {
     color: #ffffff;
     text-align: left;
     vertical-align: text-middle;
@@ -401,13 +337,10 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    top: 97px;
-    left: 0px;
     position: absolute;
-    width: 328px;
 }
 
-.apaixonadoportecnologiadesdecriança, ondemedianteexperiênciasdiversas, acaboupordesejarfazerusodatecnologiaparafacilitarodia-a-diadaspessoas. {
+#apaixonadoportecnologiadesdecriança, ondemedianteexperiênciasdiversas, acaboupordesejarfazerusodatecnologiaparafacilitarodia-a-diadaspessoas. {
     color: #d8d8d8;
     text-align: left;
     vertical-align: text-top;
@@ -416,51 +349,39 @@
     line-height: 28.799999237060547px;
     border-style: hidden;
     outline: none;
-    top: 153px;
-    left: 0px;
     position: absolute;
-    width: 540.8601684570312px;
 }
 
-.coluna1 {
-    height: 696px;
-    width: 851px;
+#coluna1 {
     padding: 0px;
 }
 
-.foto {
+#foto {
     height: 535px;
     width: 383px;
     padding: 0px;
-    left: 428px;
-    top: 46px;
     position: relative;
 }
 
-.img_yan1 {
+#img_yan1 {
     height: 426px;
     width: 320px;
-    left: 0px;
-    top: 6px;
     position: absolute;
 }
 
-.coisinhadefoto {
-    height: 535px;
-    width: 378px;
-    left: 0px;
-    top: 0px;
+#coisinhadefoto {
+    top:-45px;
+    height: 526px;
+    width: 320px;
     position: absolute;
 }
 
-.linhainicio {
+#linhainicio {
     background-color: #005fad;
-    height: 736px;
-    width: 1920px;
     padding: 0px;
 }
 
-.coluna02 {
+#coluna02 {
     height: 339px;
     width: 333px;
     padding: 0px;
@@ -469,7 +390,7 @@
     position: relative;
 }
 
-.logo2 {
+#logo2 {
     height: 254px;
     width: 269px;
     padding: 0px;
@@ -478,7 +399,7 @@
     position: relative;
 }
 
-.h1 {
+#h1 {
     height: 98px;
     width: 271px;
     padding: 0px;
@@ -486,7 +407,7 @@
     position: relative;
 }
 
-.dubweb {
+#dubweb {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -495,20 +416,18 @@
     line-height: 56px;
     border-style: hidden;
     outline: none;
-    top: 33px;
-    left: 135px;
     position: absolute;
     width: 151px;
 }
 
-.h12 {
+#h12 {
     height: 304px;
     width: 288px;
     padding: 0px;
     position: absolute;
 }
 
-.d17 {
+#d17 {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -523,7 +442,7 @@
     width: 111px;
 }
 
-.h13 {
+#h13 {
     height: 304px;
     width: 288px;
     padding: 0px;
@@ -531,7 +450,7 @@
     position: relative;
 }
 
-.w4 {
+#w4 {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -540,22 +459,15 @@
     line-height: 70px;
     border-style: hidden;
     outline: none;
-    top: 185px;
-    left: 88px;
     position: absolute;
-    width: 104px;
 }
 
-.coluna01 {
-    height: 339px;
-    width: 929px;
+#coluna01 {
     padding: 0px;
-    left: 329px;
-    top: 276px;
     position: relative;
 }
 
-.h14 {
+#h14 {
     height: 168px;
     width: 650px;
     padding: 0px;
@@ -563,7 +475,7 @@
     position: relative;
 }
 
-.ajudandoempresasaconstruíremsitesmodernosedealtaqualidade. {
+#ajudandoempresasaconstruíremsitesmodernosedealtaqualidade. {
     text-align: left;
     vertical-align: text-middle;
     font-size: 36px;
@@ -571,20 +483,16 @@
     line-height: 56px;
     border-style: hidden;
     outline: none;
-    width: 637.4656372070312px;
 }
 
-.a42 {
+#a42 {
     background-color: #01003d;
-    height: 60px;
-    width: 240px;
     border-radius: 4px;
     padding: 0px;
-    top: 230px;
     position: relative;
 }
 
-.soliciteumorçamento2 {
+#botaoIni {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -592,9 +500,7 @@
     font-family: Archivo;
     line-height: auto;
     border-style: hidden;
-    outline: none;
-    top: 20px;
-    left: 0px;
-    position: absolute;
-    width: 240px;
+}
+#botaoIni:hover{
+
 }
