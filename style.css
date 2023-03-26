@@ -12,14 +12,16 @@
     height: 134px;
     padding: 0px;
     position: relative;
+    background: RGB(1, 0, 41);
 }
 
 #colunarodape {
     height: 134px;
     padding: 0px;
+    background: RGB(1, 0, 41); 
 }
 
-#©2023-todososdireitosreservados {
+#footerestilo {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -202,12 +204,12 @@
 }
 
 #fundoyanban1 {
-    background-image: url('IMG/backgroundperfil.png');
-    background-attachment: fixed;
-    height:100vh;
-    width: 100vw;
+    transform: rotate(0deg);
+    background-image: url("IMG/fundo.png");
     background-repeat: no-repeat;
-    display:block;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
 }
 
 #opaco {
@@ -455,7 +457,7 @@
     position: relative;
 }
 
-#introI {
+#tInicial{
     text-align: left;
     vertical-align: text-middle;
     font-size: 36px;
@@ -465,14 +467,7 @@
     outline: none;
 }
 
-#a42 {
-    background-color: #01003d;
-    border-radius: 4px;
-    padding: 10px;
-    position: relative;
-}
-
-#botaoIni {
+.det {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
@@ -480,7 +475,6 @@
     font-family: Archivo;
     line-height: auto;
     border-style: hidden;
+    background-color: #01003d;
 }
-#botaoIni:hover{
 
-}
