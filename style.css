@@ -331,7 +331,7 @@
     position: absolute;
 }
 
-#apaixonadoportecnologiadesdecriança, ondemedianteexperiênciasdiversas, acaboupordesejarfazerusodatecnologiaparafacilitarodia-a-diadaspessoas. {
+#sobreI{
     color: #d8d8d8;
     text-align: left;
     vertical-align: text-top;
@@ -373,8 +373,6 @@
 }
 
 #coluna02 {
-    height: 339px;
-    width: 333px;
     padding: 0px;
     left: 0px;
     top: 0px;
@@ -382,8 +380,6 @@
 }
 
 #logo2 {
-    height: 254px;
-    width: 269px;
     padding: 0px;
     left: 0px;
     top: 38px;
@@ -453,10 +449,6 @@
     position: absolute;
 }
 
-#coluna01 {
-    padding: 0px;
-    position: relative;
-}
 
 #h14 {
     height: 168px;
