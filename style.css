@@ -34,13 +34,13 @@
 
 #linhaservicos {
     background-color: #01003d;
-    height: 539px;
+    height: 0px;
     padding: 0px;
     position: relative;
 }
 
 #colunaservicos2 {
-    height: 289px;
+    height: 0px;
     padding: 0px;
     position: relative;
 }
@@ -54,11 +54,11 @@
     position: relative;
 }
 
-#soliciteumorçamento {
+#solorc {
     color: #ffffff;
     text-align: center;
     vertical-align: text-middle;
-    font-size: 14px;
+    font-size: 3em;
     font-family: Archivo;
     line-height: auto;
     border-style: hidden;
@@ -66,7 +66,8 @@
     top: 16px;
     left: 0px;
     position: absolute;
-    width: 356px;
+    width: auto;
+    border-radius:2px;
 }
 
 #colunaservicos1 {
@@ -84,7 +85,7 @@
     line-height: auto;
     border-style: hidden;
     outline: none;
-    left: 872px;
+    left: 0px;
     top: 92px;
     position: absolute;
     width: 176px;
@@ -375,8 +376,8 @@
     height: 339px;
     width: 333px;
     padding: 0px;
-    left: 1258px;
-    top: 276px;
+    left: 0px;
+    top: 0px;
     position: relative;
 }
 
@@ -384,7 +385,7 @@
     height: 254px;
     width: 269px;
     padding: 0px;
-    left: 64px;
+    left: 0px;
     top: 38px;
     position: relative;
 }
@@ -426,7 +427,7 @@
     line-height: 70px;
     border-style: hidden;
     outline: none;
-    left: 89px;
+    left: 0px;
     top: 117px;
     position: absolute;
     width: 111px;
@@ -436,7 +437,7 @@
     height: 304px;
     width: 288px;
     padding: 0px;
-    left: 4px;
+    left: 0px;
     position: relative;
 }
 
