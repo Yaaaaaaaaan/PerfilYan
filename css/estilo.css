@@ -196,7 +196,9 @@ h3{
 	font-weight: 700;
 	letter-spacing: -0.04em;
 }
+@media Handheld{
 
+}
 /*Início Media query*/
 @media Handheld and (min-width:500px) and (max-width: 544px) {
 	h1 {
