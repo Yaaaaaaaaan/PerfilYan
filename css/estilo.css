@@ -68,7 +68,6 @@ body {
 	margin-top: calc(38% - 269px/2 + 45px);
 }
 #quem {
-
 	font-family: 'Archivo';
 	font-style: normal;
 	font-weight: 500;
@@ -102,7 +101,7 @@ body {
 	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 600;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	line-height: 152%;
 	color: #D8D8D8;
 }
@@ -115,6 +114,12 @@ body {
 	width: 2.8em;
 	margin-left: 1em;
 }
+#lNo{
+	text-decoration:none;
+}
+	#lNo :hover {
+		color: #9bf0e1;
+	}
 .capa{
 	text-align: center;
 }
@@ -124,22 +129,18 @@ body {
 }
 #projetos{
 	background: white;
-	
 }
 #projetos h3{
 	color: #7c25f8;
 }
-#recursos{
+#facilidades{
 	color: white;
 }
-#recursos h2{
+#facilidades h2{
 	color: white;
 }
-#recursos h3{
+#facilidades h3{
 	color: #9bf0e1;
-}
-.albuns{
-	padding: 10px 0;
 }
 .rotacionar{
 	transform: rotate(30deg);
