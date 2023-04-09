@@ -196,8 +196,87 @@ h3{
 	font-weight: 700;
 	letter-spacing: -0.04em;
 }
-@media All{
+@media All and (min-width: 320px) and (max-width:499px){
+	h1 {
+		font-size: 0.72em;
+	}
 
+	#ajudando {
+		margin-left: -1em;
+		margin-top: 0em;
+		font-size: 1.1em;
+		width: ;
+	}
+
+	.blocoLogo {
+		width: 135px;
+		height: 135px;
+		padding-top: 0;
+		margin-left:-1.6em;
+	}
+
+	#D {
+		font-size: 5.3em;
+	}
+
+	#W {
+		font-size: 2.8em;
+		margin-left: -0.65em;
+	}
+
+	#DubWeb {
+		font-size: 1.8em;
+		margin-top: -1.4em;
+	}
+
+	#imgFluid {
+		margin-top: 3em;
+		width: 12em;
+		margin-left: -4.5em;
+	}
+
+	#txt {
+		margin-top:-1.5em;
+		margin-left:1em;
+		width: 7em;
+	}
+
+	#quem {
+		font-weight: 500;
+		font-size: 1.3em;
+		line-height: 1.95em;
+	}
+
+	#yan {
+		font-weight: 500;
+		font-size: 1.5em;
+		line-height: 0.95em;
+		color: #FFFFFF;
+	}
+
+	#desenvolvedor {
+		font-weight: 300;
+		font-size: 0.8em;
+		line-height: 1em;
+		color: #FFFFFF;
+	}
+
+	#apaixonado {
+		font-weight: 600;
+		font-size: 0.8em;
+		line-height: 152%;
+	}
+
+	#icons {
+		margin-left:-1.8em ;
+		width: 10.6em;
+	}
+
+	#icon {
+		width: 2em;
+		margin-top: 0.5em;
+		margin-left: 0.45em;
+	}
 }
 /*Início Media query*/
 @media All and (min-width:500px) and (max-width: 544px) {
