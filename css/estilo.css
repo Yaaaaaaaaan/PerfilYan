@@ -17,6 +17,10 @@ body {
 	background-repeat: no-repeat;
 	font-family: 'Poppins', Arial;
 }
+#ajudando {
+	margin-top: 4em;
+	font-size: 1.5em;
+}
 .blocoLogo {
 	width: 288px;
 	height: 304px;
@@ -197,7 +201,7 @@ h3{
 		font-size: 0.72em;
 	}
 	#ajudando {
-		padding-top: 100px;
+		padding-top: 3em;
 		font-size:1em;
 		width:14em;
 	}
