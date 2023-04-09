@@ -197,7 +197,7 @@ h3{
 	letter-spacing: -0.04em;
 }
 
-/*Início M*/
+/*Início Media query*/
 @media (min-width:500px) and (max-width: 544px){
 	h1 {
 		font-size: 0.72em;
