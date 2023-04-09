@@ -198,43 +198,48 @@ h3{
 }
 
 /*Início Media query*/
-@media mobile and (min-width:500px) and (max-width: 544px){
+@media Handheld and (min-width:500px) and (max-width: 544px) {
 	h1 {
 		font-size: 0.72em;
 	}
+
 	#ajudando {
 		padding-top: 1.5em;
-		font-size:1.3em;
-		width:14em;
+		font-size: 1.3em;
+		width: 14em;
 	}
+
 	.blocoLogo {
 		width: 135px;
 		height: 304px;
 		padding-top: 30px;
 	}
+
 	#D {
 		font-size: 5.3em;
 	}
 
 	#W {
 		font-size: 2.8em;
-		margin-left:-0.65em;
-		
+		margin-left: -0.65em;
 	}
 
 	#DubWeb {
 		font-size: 1.8em;
-		margin-top:-1.4em;
+		margin-top: -1.4em;
 	}
+
 	#imgFluid {
-		margin-top:-4em;
+		margin-top: -4em;
 		width: 15em;
-		margin-left:-4.8em;
+		margin-left: -4.8em;
 	}
-	#txt{
+
+	#txt {
 		margin-top:;
-		width:13.5em;
+		width: 13.5em;
 	}
+
 	#quem {
 		font-weight: 500;
 		font-size: 1.4em;
@@ -261,41 +266,47 @@ h3{
 		line-height: 152%;
 	}
 
-	#icons{
-		width:13.5em;
+	#icons {
+		width: 13.5em;
 	}
+
 	#icon {
 		width: 2.5em;
 		margin-top: 0.5em;
 		margin-left: 0.45em;
 	}
 }
-@media mobile and (min-width: 545px) and (max-width: 767px){
-	h1{
+@media Handheld and (min-width: 545px) and (max-width: 767px) {
+	h1 {
 		font-size: 0.8em;
 	}
+
 	#ajudando {
 		padding-top: 1.5em;
 		font-size: 1.3em;
 		width: 14em;
 	}
+
 	.blocoLogo {
 		width: 135px;
 		height: 304px;
 		padding-top: 30px;
 	}
+
 	#D {
 		font-size: 6em;
-		
 	}
+
 	#W {
 		font-size: 3.5em;
-		margin-left:-0.35em;
+		margin-left: -0.35em;
 	}
+
 	#DubWeb {
 		font-size: 2em;
 		margin-top: -1em;
 	}
+
 	#imgFluid {
 		margin-top: -5em;
 		width: 15em;
@@ -303,7 +314,7 @@ h3{
 	}
 
 	#txt {
-		margin-top:-3.1em;
+		margin-top: -3.1em;
 		width: 15.5em;
 	}
 
@@ -336,13 +347,12 @@ h3{
 	#icons {
 		width: 13.5em;
 	}
+
 	#icon {
 		width: 2.17em;
 		margin-top: 0.8em;
 		margin-left: 1em;
 	}
-	
-
 }
 @media (min-width: 768px) and (max-width: 991px){
 	h1 {
