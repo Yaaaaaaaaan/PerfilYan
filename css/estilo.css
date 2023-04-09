@@ -198,7 +198,7 @@ h3{
 }
 
 /*Início Media query*/
-@media (min-width:500px) and (max-width: 544px){
+@media mobile and (min-width:500px) and (max-width: 544px){
 	h1 {
 		font-size: 0.72em;
 	}
@@ -270,7 +270,7 @@ h3{
 		margin-left: 0.45em;
 	}
 }
-@media (min-width: 545px) and (max-width: 767px){
+@media mobile and (min-width: 545px) and (max-width: 767px){
 	h1{
 		font-size: 0.8em;
 	}
