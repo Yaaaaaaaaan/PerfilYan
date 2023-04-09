@@ -196,17 +196,17 @@ h3{
 	font-weight: 700;
 	letter-spacing: -0.04em;
 }
-@media Handheld{
+@media All{
 
 }
 /*Início Media query*/
-@media Handheld and (min-width:500px) and (max-width: 544px) {
+@media All and (min-width:500px) and (max-width: 544px) {
 	h1 {
 		font-size: 0.72em;
 	}
 
 	#ajudando {
-		padding-top: 1.5em;
+		padding-top: 1em;
 		font-size: 1.3em;
 		width: 14em;
 	}
@@ -278,7 +278,7 @@ h3{
 		margin-left: 0.45em;
 	}
 }
-@media Handheld and (min-width: 545px) and (max-width: 767px) {
+@media All and (min-width: 545px) and (max-width: 767px) {
 	h1 {
 		font-size: 0.8em;
 	}
