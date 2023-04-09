@@ -8,7 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&display=swap');
 html,body, #home{
 	height: 100%;
-	
+	overflow-x:hidden;
 }
 body {
 	background: linear-gradient(250deg,#005FAD, #010029);
@@ -17,7 +17,6 @@ body {
 	background-repeat: no-repeat;
 	font-family: 'Poppins', Arial;
 }
-
 .blocoLogo {
 	width: 288px;
 	height: 304px;
@@ -59,7 +58,6 @@ body {
 	text-align: center;
 	color: #FFFFFF;
 }
-
 #imgFluid{
 	width:100%;
 }
@@ -108,7 +106,6 @@ body {
 	line-height: 152%;
 	color: #D8D8D8;
 }
-
 #icon{
 	width:3.5em;
 	margin-top:3em;
@@ -118,29 +115,18 @@ body {
 	width: 2.8em;
 	margin-left: 1em;
 }
-
-
 .capa{
 	text-align: center;
-}
-
-
-.btn-branco{
-	border: 2px solid white;
-}
-.btn-branco:hover{
-	background-color: white;
-	color: black;
 }
 .caixa{
 	padding-top:120px;
 	padding-bottom: 20px;
 }
-#servicos{
+#projetos{
 	background: white;
 	
 }
-#servicos h3{
+#projetos h3{
 	color: #7c25f8;
 }
 #recursos{
