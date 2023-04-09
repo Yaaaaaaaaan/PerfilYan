@@ -8,7 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&display=swap');
 html,body, #home{
 	height: 100%;
-	overflow-x:hidden;
+	/*overflow-x:hidden;*/
 }
 body {
 	background: linear-gradient(250deg,#005FAD, #010029);
@@ -196,6 +196,8 @@ h3{
 	font-weight: 700;
 	letter-spacing: -0.04em;
 }
+
+/*Início Medias querys*/
 @media (min-width:500px) and (max-width: 544px){
 	h1 {
 		font-size: 0.72em;
@@ -283,7 +285,7 @@ h3{
 		padding-top: 30px;
 	}
 	#D {
-		font-size: 5.5em;
+		font-size: 6em;
 		
 	}
 	#W {
@@ -292,7 +294,7 @@ h3{
 	}
 	#DubWeb {
 		font-size: 2em;
-		
+		margin-top: -1em;
 	}
 	#imgFluid {
 		margin-top: -4em;
@@ -302,7 +304,7 @@ h3{
 
 	#txt {
 		margin-top:;
-		width: 13.5em;
+		width: 15.5em;
 	}
 
 	#quem {
@@ -336,7 +338,7 @@ h3{
 	}
 	#icon {
 		width: 2.17em;
-		margin-top: 2em;
+		margin-top: 0.8em;
 		margin-left: 1em;
 	}
 	
@@ -344,12 +346,82 @@ h3{
 }
 @media (min-width: 768px) and (max-width: 991px){
 	h1 {
-		font-size: 1.1em;
+		font-size: 1em;
+	}
+	#ajudando {
+		padding-top: 0.5em;
+		font-size: 2em;
+		width: 10em;
+	}
+
+	.blocoLogo {
+		width: 135px;
+		height: 304px;
+		padding-top: 30px;
+	}
+
+	#D {
+		font-size: 6em;
+	}
+
+	#W {
+		font-size: 3.5em;
+		margin-left: -0.35em;
+	}
+
+	#DubWeb {
+		font-size: 2em;
+		margin-top: -1em;
+	}
+	#icon {
+		width: 2.17em;
+		margin-top: 2em;
+		margin-left: 1em;
+	}
+	#imgFluid {
+		margin-top: -4em;
+		width: 15em;
+		margin-left: -4.8em;
+	}
+
+	#txt {
+		margin-top:;
+		width: 15.5em;
+	}
+
+	#quem {
+		font-weight: 500;
+		font-size: 1.4em;
+		line-height: 1.95em;
+	}
+
+	#yan {
+		font-weight: 500;
+		font-size: 2em;
+		line-height: 0.95em;
+		color: #FFFFFF;
+	}
+
+	#desenvolvedor {
+		font-weight: 300;
+		font-size: 0.95em;
+		line-height: 1em;
+		color: #FFFFFF;
+	}
+
+	#apaixonado {
+		font-weight: 600;
+		font-size: 0.85em;
+		line-height: 152%;
+	}
+
+	#icons {
+		width: 13.5em;
 	}
 
 	#icon {
 		width: 2.17em;
-		margin-top: 2em;
+		margin-top: 0.8em;
 		margin-left: 1em;
 	}
 }
