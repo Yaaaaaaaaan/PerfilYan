@@ -64,7 +64,7 @@ body {
 	margin-top:-30px;
 }
 #txt{
-	margin-top: calc(30% - 269px/2 + 45px);
+	margin-top: calc(38% - 269px/2 + 45px);
 }
 #quem {
 
@@ -106,6 +106,11 @@ body {
 	color: #D8D8D8;
 }
 
+#icon{
+	width:3.5em;
+	margin-top:3em;
+	margin-left:1em;
+}
 
 
 
