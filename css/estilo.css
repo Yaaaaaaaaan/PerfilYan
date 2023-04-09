@@ -217,11 +217,12 @@ h3{
 	#W {
 		font-size: 2.8em;
 		margin-left:-0.65em;
+		
 	}
 
 	#DubWeb {
-		font-size: 2em;
-		margin-top:-1em;
+		font-size: 1.8em;
+		margin-top:-1.4em;
 	}
 	#imgFluid {
 		margin-top:-4em;
@@ -272,7 +273,9 @@ h3{
 		font-size: 0.8em;
 	}
 	#ajudando {
-		padding-top: 100px;
+		padding-top: 3em;
+		font-size: 1em;
+		width: 14em;
 	}
 	.blocoLogo {
 		width: 135px;
@@ -285,7 +288,7 @@ h3{
 	}
 	#W {
 		font-size: 3.5em;
-		
+		margin-left:-0.35em;
 	}
 	#DubWeb {
 		font-size: 2em;
