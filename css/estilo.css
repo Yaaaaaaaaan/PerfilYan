@@ -611,14 +611,19 @@ h3{
 }
 
 /*Tab A08 SM X200*/
-@media (min-width:1920px) and (min-height:1200px) and (max-width:1920px) and (max-height:1200px){
+/*Tab A08 SM X200*/
+@media (min-width:1920px) and (max-width:1920px) {
 
 	#ajudando {
-		margin-top: -5em;
+		padding-top: -15em;
 	}
 
 	.blocoLogo {
-		margin-top: -2em;
+		padding-top: -12em;
+	}
+
+	#D {
+		color: black;
 	}
 
 	#icon {
@@ -636,5 +641,4 @@ h3{
 	#icon {
 		margin-top: 2em;
 	}
-
 }
