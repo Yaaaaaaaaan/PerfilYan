@@ -612,11 +612,12 @@ h3{
 
 /*Tab A08 SM X200*/
 /*Tab A08 SM X200*/
-@media (min-width:1920px) and (max-width:1920px) {
+@media (min-width:1919px) and (max-width:1921px) {
 
 	#ajudando {
-		padding-top: -15em;
+		margin-top: -15em;
 	}
+
 
 	.blocoLogo {
 		padding-top: -12em;
