@@ -609,37 +609,3 @@ h3{
 	}
 
 }
-
-/*Tab A08 SM X200*/
-/*Tab A08 SM X200*/
-@media (min-width:1919px) and (max-width:1921px) {
-
-	#ajudando {
-		margin-top: -15em;
-	}
-
-
-	.blocoLogo {
-		padding-top: -12em;
-	}
-
-	#D {
-		color: black;
-	}
-
-	#icon {
-		margin-top: 2em;
-	}
-
-	#imgFluid {
-		margin-top: -1em;
-	}
-
-	#txt {
-		margin-top: 1.5em;
-	}
-
-	#icon {
-		margin-top: 2em;
-	}
-}
