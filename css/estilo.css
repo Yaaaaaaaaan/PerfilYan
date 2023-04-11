@@ -609,3 +609,31 @@ h3{
 	}
 
 }
+
+@media (min-width:1920px) and (min-height:1200px) and (max-width:1920px) and (max-height:1200px){
+
+	#ajudando {
+		padding-top: 0.1em;
+	}
+
+	.blocoLogo {
+		margin-top: -1em;
+	}
+
+	#icon {
+		margin-top: 2em;
+	}
+
+	#imgFluid {
+		margin-top: -1em;
+	}
+
+	#txt {
+		margin-top: 1.5em;
+	}
+
+	#icon {
+		margin-top: 2em;
+	}
+
+}
