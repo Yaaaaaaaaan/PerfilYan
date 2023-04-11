@@ -364,7 +364,7 @@ h3{
 	}
 
 	#ajudando {
-		padding-top: 1em;
+		padding-top: 1.5em;
 		font-size: 1.3em;
 		width: 14em;
 	}
@@ -517,16 +517,75 @@ h3{
 		margin-left: 1em;
 	}
 }
-@media (min-width: 992px) and (max-width: 1199px){
+@media (min-width: 992px) and (max-width: 1199px) {
 	h1 {
 		font-size: 1.5em;
+	}
+	#ajudando{
+		padding-top: 0.1em;
+		font-size: 2em;
+		width: 10em;
+	}
+	.blocoLogo {
+		width: 270px;
+		height: 304px;
+		margin-top: 0em;
+	}
+	#D {
+		font-size: 9em;
+	}
+	#W {
+		font-size: 6.5em;
+		margin-left: -0.35em;
+	}
+	#DubWeb {
+		font-size: 2em;
+		margin-top: -1em;
+	}
+	#icon {
+		width: 2.17em;
+		margin-top: 2em;
+		margin-left: 1em;
+	}
+	#imgFluid {
+		margin-top: 1em;
+		width: 15em;
+		margin-left: -4.8em;
+	}
+	#txt {
+		margin-top: 1.3em;
+		width: 15.5em;
+	}
+	#quem {
+		font-weight: 500;
+		font-size: 1.4em;
+		line-height: 1.95em;
+	}
+	#yan {
+		font-weight: 500;
+		font-size: 2em;
+		line-height: 0.95em;
+		color: #FFFFFF;
+	}
+	#desenvolvedor {
+		font-weight: 300;
+		font-size: 0.95em;
+		line-height: 1em;
+		color: #FFFFFF;
+	}
+	#apaixonado {
+		font-weight: 600;
+		font-size: 0.85em;
+		line-height: 152%;
+	}
+	#icons {
+		width: 13.5em;
 	}
 	#icon {
 		width: 3em;
 		margin-top: 2em;
 		margin-left: 1em;
 	}
-	
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
 	h1 {
