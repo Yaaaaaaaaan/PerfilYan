@@ -65,6 +65,24 @@ body {
 #imgFluid{
 	width:100%;
 }
+.bc-img{
+		
+		/*border: 1px solid #000;*/
+		overflow: hidden;
+		width: 100%;
+}
+.bc-img img {
+	max-width: 100%;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+}
+.bc-img:hover img {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
 #padNeg{
 	margin-top:-30px;
 }
@@ -131,8 +149,26 @@ body {
 	padding-top:120px;
 	padding-bottom: 20px;
 }
+#headProjeto{
+	
+	color: #FFFFFF;
+	padding-top:120px;
+	padding-bottom: 60px;
+}
 #projetos{
-	background: white;
+	background: rgba(255, 255, 255, 0.884);
+	padding-top:120px;
+	padding-bottom: 60px;
+	margin-top:120px;
+	margin-bottom: 120px;
+}
+.sigma{
+	background-image: url(../imagens/sigma.png);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
 }
 #projetos h3{
 	color: #7c25f8;
@@ -279,7 +315,7 @@ h3{
 		margin-left: 0.45em;
 	}
 }
-/*Início Media query*/
+/*Inï¿½cio Media query*/
 @media All and (min-width:500px) and (max-width: 544px) {
 	h1 {
 		font-size: 0.72em;
