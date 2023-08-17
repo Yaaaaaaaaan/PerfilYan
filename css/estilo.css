@@ -134,6 +134,7 @@ body {
 }
 #iconFoo {
 	width: 2.8em;
+	margin-left: 1em;
 }
 #lNo{
 	text-decoration:none;
@@ -237,10 +238,7 @@ h3{
 	}
 
 	#ajudando {
-		margin-left: -1em;
-		margin-top: 0em;
 		font-size: 1.1em;
-		width: ;
 	}
 
 	.blocoLogo {
