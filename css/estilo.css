@@ -178,8 +178,7 @@ body {
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: contain;
-	height: 100%;
+	background-size: 100vw 80vh ;
 }
 #projetos h3{
 	color: #7c25f8;
