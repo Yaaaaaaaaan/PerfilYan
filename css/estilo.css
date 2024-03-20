@@ -175,7 +175,7 @@ body {
 
 .webservice{
 	background-image: url(../imagens/webservice.png);
-	background-attachment: fixed;
+	background-attachment: scroll;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
