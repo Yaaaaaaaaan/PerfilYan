@@ -161,8 +161,8 @@ body {
 }
 #projetos{
 	background: rgba(255, 255, 255, 0.884);
-	margin-top:120px;
-	margin-bottom: 120px;
+	margin: 23vh;
+	margin-bottom: 23vh;
 	padding-top: 65px;
 	padding-bottom: 65px;
 }
@@ -180,7 +180,7 @@ body {
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 100vw 80vh ;
+	background-size: cover ;
 }
 #projetos h3{
 	color: #7c25f8;
