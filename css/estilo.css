@@ -23,13 +23,21 @@ body {
 }
 .blocoLogo {
 	width: 288px;
-	height: 304px;
-	padding-top: 62px;
+	height: 304p
+	;
+	padding-top:
+	62px;
 }
-#D {
-	padding-top:62px;
+.ico{
+	width: 150px !important;
+	height: 50px!important;
+}
+#D{
+	padding-top:
+	2px;
 	padding-right:150px;
-	font-family: 'Architects Daughter';
+	font-family:
+	'Architects Daughter';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 170px;
@@ -238,9 +246,6 @@ h3{
 	font-size: 2em;
 	font-weight: 700;
 	letter-spacing: -0.04em;
-}
-.ico{
-	width: 150px;
 }
 @media All and (min-width: 320px) and (max-width:499px){
 	h1 {
