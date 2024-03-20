@@ -185,13 +185,13 @@ body {
 	color: #7c25f8;
 }
 #conhecimentos{
-	color: #6bb7ffa0;
+	color: #6bb7ffa0!important;
 }
 #conhecimentos h2{
-	color: white;
+	color: white!important;
 }
 #conhecimentos h3{
-	color: #9bf0e0a6;
+	color: #9bf0e0a6!important;
 }
 .rotacionar{
 	transform: rotate(30deg);
