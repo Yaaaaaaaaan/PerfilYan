@@ -161,7 +161,7 @@ body {
 }
 #projetos{
 	background: rgba(255, 255, 255, 0.884);
-	margin: 23vh;
+	margin-top: 23vh;
 	margin-bottom: 23vh;
 	padding-top: 65px;
 	padding-bottom: 65px;
@@ -172,7 +172,6 @@ body {
 	background-position: center;
 	background-repeat: repeat;
 	background-size: cover;
-	height: 100%;
 }
 
 .webservice{
