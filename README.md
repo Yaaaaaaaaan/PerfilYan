@@ -1,10 +1,13 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Yaan" height="190px" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="190px" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="Streak de Contribuições" />
+  <!-- Cartão de Estatísticas Gerais -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://vercel.app" alt="Estatísticas do GitHub de Yaan" />
+  </a>
+  
+  <!-- Cartão de Linguagens Mais Usadas -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://vercel.app" alt="Linguagens mais usadas" />
+  </a>
 </p>
